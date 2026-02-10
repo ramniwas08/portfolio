@@ -89,7 +89,7 @@ export function Hero() {
         </div>
 
         <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
-          <a href="/" className="hover:text-primary transition-colors">Ramniwas Saharan</a>
+          <a href="/portfolio" className="hover:text-primary transition-colors">Ramniwas Saharan</a>
         </h1>
 
         <h2 className="mt-3 flex items-center gap-1 text-lg font-medium tracking-tight text-primary sm:text-xl">
